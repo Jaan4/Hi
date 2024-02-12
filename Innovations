@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Embark Innovations</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">Embark Innovations</div>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#portfolio">Portfolio</a></li>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <button class="cta-btn">Get Started</button>
+</header>
+
+<section class="hero">
+  <div class="hero-content">
+    <h1>Transforming Ideas into Intelligent Solutions</h1>
+    <button class="explore-btn">Explore Our Services</button>
+  </div>
+</section>
+
+<section id="services">
+  <h2>Services</h2>
+  <!-- Insert service cards with icons and descriptions here -->
+</section>
+
+<section id="portfolio">
+  <h2>Portfolio</h2>
+  <!-- Insert portfolio items with images and descriptions here -->
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <!-- Insert company overview, team bios, and approach to software development here -->
+</section>
+
+<section class="cta-section">
+  <h2>Get in Touch</h2>
+  <button class="contact-btn">Contact Us</button>
+</section>
+
+<footer>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#portfolio">Portfolio</a></li>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <div class="footer-info">
+    <p>Contact information: address, phone number, email</p>
+    <p>Copyright © 2024 Embark Innovations. All rights reserved.</p>
+  </div>
+  <div class="social-icons">
+    <!-- Insert social media icons and links here -->
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
